@@ -12,7 +12,7 @@ This application requires that Python 3 is installed on your computer.
 
 * Add a new note: `python guestbook.py new <"note">`
 * Print all the entries in the guestbook: `python guestbook.py list`
-* Change the note of the given index: `python guestbook.py edit <"index"> <"edited note">`
+* Change the note of the given index: `python guestbook.py edit <index> <"edited note">`
 * Delte most recent note: `python guestbook.py delete 1`
 
  
